@@ -1,0 +1,3 @@
+This project has the basic calculator with GUI which is developed with the help of SWING GUI's (WindowBuilder plugin).
+It has the operator functions " + , - , * , / , % , ^ ".
+The Output of the calculator's UI is included as a png file in this repository.
